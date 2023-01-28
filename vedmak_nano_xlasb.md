@@ -1,4 +1,4 @@
-# XLASB Shield Vedmak
+# XLASB Shield Vedmak Rev1
 
 ## Notes
 
