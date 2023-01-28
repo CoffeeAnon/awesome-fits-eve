@@ -2,12 +2,13 @@
 
 ## Notes
 
-Requires cap drugs. Halcyon is best, mindlink. overclocker is good to.
+Requires cap drugs. Halcyon is best, mindlink. overclocker is good too.
 
 ## EFT
 
 ```
 [Vedmak, XLASB shield]
+
 Caldari Navy Co-Processor
 Entropic Radiation Sink II
 Entropic Radiation Sink II
@@ -18,17 +19,16 @@ Tracking Enhancer II
 50MN Quad LiF Restrained Microwarpdrive
 Caldari Navy Large Shield Extender
 Caldari Navy Warp Disruptor
-X-Large Ancillary Shield Booster
+X-Large Ancillary Shield Booster, Navy Cap Booster 400
 
 Small Energy Neutralizer II
 Small Energy Neutralizer II
 Small Energy Neutralizer II
-Heavy Entropic Disintegrator II
+Heavy Entropic Disintegrator II, Mystic M
 
 Medium Ancillary Current Router I
 Medium Dynamic Fuel Valve II
 Medium Polycarbon Engine Housing II
-
 
 
 Vespa EC-600 x5
@@ -40,7 +40,4 @@ Mystic M x1000
 Navy Cap Booster 400 x9
 Halcyon B-5 Booster x1
 Quafe Zero Green Apple x1
-
-
-
 ```
