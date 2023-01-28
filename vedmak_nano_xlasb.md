@@ -2,7 +2,7 @@
 
 ## Notes
 
-Requires cap drugs. Halcyon is best, mindlink
+Requires cap drugs. Halcyon is best, mindlink. overclocker is good to.
 
 ## EFT
 
